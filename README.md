@@ -15,3 +15,8 @@ swiftUI 를 이용해서 만든 간단한 날짜 어플입니다
 <img width="595" alt="스크린샷 2021-07-18 오전 5 30 44" src="https://user-images.githubusercontent.com/76652929/126048707-26fb3049-3795-4121-b65b-c5dd8a920d92.png">
 <img width="447" alt="스크린샷 2021-07-18 오전 5 31 03" src="https://user-images.githubusercontent.com/76652929/126048708-780a6b98-a71d-4eb9-8af9-e4da20aa850e.png">
 
+
+
+
+아래의 영상을 참고하여 만들었습니다.
+https://www.youtube.com/watch?v=HXoVSbwWUIk
